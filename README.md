@@ -8,7 +8,7 @@ Step-3 : EDA (Performing EDA - Exploratory Data Analysis) <br>
 Step-4 : Conclusions (Top 5 Countries Covid-19 trends) <br>
 ![Final Visualization](https://user-images.githubusercontent.com/72125175/149205703-fb0ba19c-b982-4a37-b487-871f9245eea5.png) <br>
 
-Libraries Used : Pandas (Data Pre Processing), Numpy(for Arrays), [Matplolib, Plotly, Seaborn,](for Visualization), BeautifulSoup(for webscraping) <br>
+Libraries Used : <br>Pandas (Data Pre Processing), Numpy(for Arrays), [Matplolib, Plotly, Seaborn,](for Visualization), BeautifulSoup(for webscraping) <br>
 BeautifulSoup – Python library for getting data out of HTML, XML, and other markup languages. <br>
 
 Note :  <br>
